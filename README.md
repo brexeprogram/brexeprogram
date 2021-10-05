@@ -7,4 +7,4 @@
 - 📝 I used to write my programming progress on [brexecl.ga](https://www.brexecl.ga), it's a changelog blogger site
 
 ### 🐱My Github stats:
-[![Brexe's GitHub stats](https://github-readme-stats.vercel.app/api?brexeprogram=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Brexe's GitHub stats](https://github-readme-stats.vercel.app/api?username=brexeprogram)](https://github.com/anuraghazra/github-readme-stats)
